@@ -10,7 +10,7 @@ print(b)
 print(a)
 
 
-#a,b,c=input(),input(),input()
-#print(c)
-#print(b)
-#print(a)
+#a,b,c=Команда input(),Команда input(),Команда input()
+#Команда print(c)
+#Команда print(b)
+#Команда print(a)
