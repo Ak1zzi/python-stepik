@@ -1,1 +1,1 @@
-Упражнения из курса по Python (Stepik)
+Готовые решения из курса Stepik по Python (Acacdemy)
